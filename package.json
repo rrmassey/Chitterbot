@@ -1,0 +1,19 @@
+{
+  "name": "chitterbot",
+  "version": "1.0.0",
+  "openai": "4.0.0",
+  "description": "powered by chat gpt",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Reuben Massey",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.1",
+    "openai": "^4.26.0",
+    "readline-sync": "^1.4.10"
+  }
+}
